@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+*.exe
+*.ilk
+*.obj
+*.pdb
