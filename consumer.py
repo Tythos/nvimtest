@@ -1,3 +1,11 @@
 import test
 
-print(test.NAME)
+
+def main():
+    """
+    """
+    print(test.NAME)
+
+
+if __name__ == "__main__":
+    main()
